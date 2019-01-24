@@ -5,7 +5,7 @@ import shutil
 
 class TclapConan(ConanFile):
     name = "TCLAP"
-    version = "1.2.1"
+    version = "1.2.2"
     settings = "os", "compiler", "build_type", "arch"
     license = "MIT"
     # No exports necessary
